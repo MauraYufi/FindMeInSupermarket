@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\bin\Debug\FindMeInSupermarket.exe.config
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\bin\Debug\FindMeInSupermarket.exe
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\bin\Debug\FindMeInSupermarket.pdb
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.csprojAssemblyReference.cache
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.Form1.resources
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.Properties.Resources.resources
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.exe
+C:\Users\user\source\repos\FindMeInSupermarket\FindMeInSupermarket\obj\Debug\FindMeInSupermarket.pdb
